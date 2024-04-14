@@ -9,7 +9,10 @@ This is a playground to see what I can do with Obsidian.
 🌲
 🍂
 
+🖋📖
+
 |     |     |
 | --- | --- |
 | 📝  | 🍆  |
 | 🐘  | ☎   |
+
