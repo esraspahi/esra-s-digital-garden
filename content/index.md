@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Esra's Digital Garden
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is a playground to see what can i do with Obsidian.

@@ -6,5 +6,6 @@ longform:
   sceneFolder: /
   scenes:
     - Scene 1
+    - Scene 2
   ignoredFiles: []
 ---
