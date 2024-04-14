@@ -9,3 +9,4 @@ longform:
     - Scene 2
   ignoredFiles: []
 ---
+This is the index page of the longform document, which is under Chapter 1.
