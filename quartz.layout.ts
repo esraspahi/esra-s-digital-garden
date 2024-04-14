@@ -29,7 +29,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.DesktopOnly(Component.Explorer()),
   ],
  
-  left: []
+  left: [],
 
   right: [
     Component.Graph(),
