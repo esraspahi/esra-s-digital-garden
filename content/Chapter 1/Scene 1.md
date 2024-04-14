@@ -1,3 +1,3 @@
 New scene
 
-[Chapter 2 | [[content/Chapter 2/Index|Index]] ]
+This is a wikilink: [[content/Chapter 2/Index | Chapter 2] ]
