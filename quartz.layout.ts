@@ -32,8 +32,7 @@ export const defaultContentPageLayout: PageLayout = {
  
   left: [],
 
-  right: [
-  ],
+  right: [],
 }
 
 // components for pages that display lists of pages  (e.g. tags or folders)
